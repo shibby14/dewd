@@ -1,0 +1,30 @@
+#######################################
+# Library (KEYWORD3)
+#######################################
+
+DEWD	KEYWORD3
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#WiFi	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+list_all_ap	KEYWORD2
+connect_to_mesh	KEYWORD2
+setup_mesh	KEYWORD2
+send_message	KEYWORD2
+listen_to_port	KEYWORD2
+get_random	KEYWORD2
+print_IP	KEYWORD2
+decode_command	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#WIFI_AP	LITERAL1
